@@ -14,3 +14,5 @@ And here is one more line
             [EditableText()]
             publc virtual int Text { get; set; }
 ```
+
+Test of editing on tablet and some more
