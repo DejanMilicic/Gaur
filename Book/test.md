@@ -15,4 +15,5 @@ And here is one more line
             publc virtual int Text { get; set; }
 ```
 
-Test of editing on tablet and some more
+Test of editing on tablet and some more  
+and some `inline code` too
