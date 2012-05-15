@@ -17,3 +17,5 @@ And here is one more line
 
 Test of editing on tablet and some more  
 and some `inline code` too
+
+An this is [example](http://example.com) of a link which actually points to http://example.com 
