@@ -4,5 +4,5 @@ Enter Text in Markdown format.
 
 	public static class Test
 	{
-    	int a = 0;
+		int a = 0;
 	}
